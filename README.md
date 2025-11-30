@@ -41,7 +41,7 @@ Este script automatiza o processo de verificação de cookies (formato Netscape)
 2.  **Cookies:** Coloque seus arquivos `.txt` (formato Netscape) dentro da pasta `cookies`.
 3.  **Execução:** Rode o script:
     ```bash
-    python tiktok.py
+    tiktok.exe
     ```
 4.  **Resultados:** Verifique a pasta `lives` gerada automaticamente.
 
